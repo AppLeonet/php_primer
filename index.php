@@ -26,5 +26,8 @@ include 'includes/header.php'
         echo "<h1>My name is: $name</h1>"
     ?>
     <button type="button" class="btn btn-dark">Click me</button>
+    <button type="button" class="btn btn-warning">Click me</button>
+    <button type="button" class="btn btn-primary">Click me</button>
+    <button type="button" class="btn btn-success">Click me</button>
 
     <?php require 'includes/footer.php'?>
